@@ -23,7 +23,7 @@ body{
     z-index: 3;
     grid-column: 2/ 3;
     display: grid;
-    grid-template-rows: 15vh 85vh;
+    grid-template-rows: 15vh auto;
 }
 /* HEADER NAV **********************************/
 header{
