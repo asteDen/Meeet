@@ -37,7 +37,7 @@ header nav{
 /* MAIN CONTENT *******************************/
 .main-content{
     grid-row: 2/ 3;
-    height: 100%;
+    height: auto;
     font-size: 3em;
 }
 .main-content h1{
